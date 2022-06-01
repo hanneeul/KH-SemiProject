@@ -28,7 +28,7 @@
                     </tr>
                 </table>
                 <hr>
-                <p>서울시 강남구 테헤란로 감각대 TEL 02-1234-1234 FAX 02-321-321</p>
+                <p>서울시 강남구 테헤란로 감각대 TEL 02-1235-1235 FAX 02-321-321</p>
                 <p>sensual university</p>
             </form>
         </div>
