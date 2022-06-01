@@ -22,7 +22,7 @@
 					<li class="lecture"><a href="#">강의조회</a></li>
 					<li class="record"><a href="#">성적조회</a></li>
 					<li class="class"><a href="#">수강신청</a></li>
-                    <li class="message"><a href="#">메세지(채팅)</a></li>
+                    <li class="message"><a href="#">채팅</a></li>
 				</ul>
                 <hr>
             </nav>
